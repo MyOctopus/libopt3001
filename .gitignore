@@ -1,0 +1,9 @@
+*~
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.o
+*.lo
+*.la
+Makefile.in
